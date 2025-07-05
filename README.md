@@ -68,12 +68,6 @@ $ cat < sorted.txt | uniq | wc > stats.txt
 
 ---
 
-## 👨‍💻 Geliştirici | Developer
-
-- **Nurullah Yıldırım**  
-- Öğrenci No: `22100011045`
-
----
 
 ## 📄 Lisans | License
 
